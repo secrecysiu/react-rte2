@@ -245,10 +245,6 @@ export default class EditorToolbar extends Component {
           onTogglePopover={this._toggleShowLinkInput}
           defaultValue={defaultValue}
           onSubmit={this._setLink}
-          checkOptions={{
-            targetBlank: {label: 'Open link in new tab', defaultValue: targetBlank},
-            noFollow: {label: 'No follow', defaultValue: noFollow},
-          }}
         />
         <IconButton
           {...toolbarConfig.extraProps}

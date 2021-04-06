@@ -1,3 +1,7 @@
+# react-rte2
+
+This is fork from sstur/react-rte with some fix and enhancement
+
 # React Rich Text Editor
 
 ![Build Status](https://travis-ci.org/sstur/react-rte.svg?branch=master)
@@ -13,7 +17,7 @@ Try the editor here: [react-rte.org/demo][react-rte-demo]
 
 ## Getting Started
 
-    $ npm install --save react-rte
+    $ npm install --save react-rte2
 
 `RichTextEditor` is the main editor component. It is comprised of the Draft.js `<Editor>`, some UI components (e.g. toolbar) and some helpful abstractions around getting and setting content with HTML/Markdown.
 
