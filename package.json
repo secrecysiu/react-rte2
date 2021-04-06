@@ -64,7 +64,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sstur/react-rte.git"
+    "url": "git+https://github.com/secrecysiu/react-rte2.git"
   },
   "keywords": [
     "reactjs",
